@@ -5,7 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs,Python & Typescript**
+- 🌱 Welcome to my GitHub profile! I'm a seasoned Full Stack Developer passionate about crafting robust and scalable software solutions. With expertise spanning various technologies and frameworks, I thrive on building innovative applications that push boundaries and deliver exceptional user experiences.
+
+🚀 My tech stack includes:
+
+TypeScript: Leveraging the power of strong typing for scalable JavaScript applications.
+Next.js: Building dynamic and performant web applications with ease.
+Python: Harnessing Python's versatility for backend development.
+FastAPI: Crafting blazing-fast APIs with Python's asynchronous framework.
+Docker & Docker Compose: Containerizing applications for seamless deployment and scaling.
+Apache Kafka: Implementing high-throughput, fault-tolerant messaging systems for real-time data processing.
+🔧 Whether it's architecting complex systems, optimizing performance, or diving into the latest technologies, I'm always eager to tackle new challenges and collaborate on exciting projects.
+
+📫 Let's connect and innovate together! Feel free to explore my repositories and reach out for collaborations, discussions, or to say hello.
 
 - 📫 How to reach me **afzaalm993@gmail.com**
 
