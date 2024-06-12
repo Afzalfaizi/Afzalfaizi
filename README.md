@@ -7,7 +7,7 @@
 
 Welcome to my GitHub profile! I'm a seasoned Full Stack Developer passionate about crafting robust and scalable software solutions. With expertise spanning various technologies and frameworks, I thrive on building innovative applications that push boundaries and deliver exceptional user experiences.
 
-My tech stack includes:
+## My tech stack includes:
 
 - TypeScript: Leveraging the power of strong typing for scalable JavaScript applications.
 -  Next.js: Building dynamic and performant web applications with ease.
@@ -18,7 +18,7 @@ My tech stack includes:
 
 📫 Let's connect and innovate together! Feel free to explore my repositories and reach out for collaborations, discussions, or to say hello.
 
-- 📫 How to reach me **afzaalm993@gmail.com**
+## How to reach me **afzaalm993@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
