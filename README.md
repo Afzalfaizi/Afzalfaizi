@@ -9,11 +9,11 @@
 
 🚀 My tech stack includes:
 
-TypeScript: Leveraging the power of strong typing for scalable JavaScript applications.
-Next.js: Building dynamic and performant web applications with ease.
-Python: Harnessing Python's versatility for backend development.
+** TypeScript: Leveraging the power of strong typing for scalable JavaScript applications.
+** Next.js: Building dynamic and performant web applications with ease.
+** Python: Harnessing Python's versatility for backend development.
 FastAPI: Crafting blazing-fast APIs with Python's asynchronous framework.
-Docker & Docker Compose: Containerizing applications for seamless deployment and scaling.
+Docker & Docker Compose Containerizing applications for seamless deployment and scaling.
 Apache Kafka: Implementing high-throughput, fault-tolerant messaging systems for real-time data processing.
 🔧 Whether it's architecting complex systems, optimizing performance, or diving into the latest technologies, I'm always eager to tackle new challenges and collaborate on exciting projects.
 
