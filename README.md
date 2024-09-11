@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Afzal Faizi</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Afzal</h1>
+<h3 align="center">A passionate Full-Stack Developer and Gen-AI Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzalfaizi&label=Profile%20views&color=0e75b6&style=flat" alt="afzalfaizi" /> </p>
 
@@ -19,7 +19,7 @@ I'm a seasoned Full Stack Developer passionate about crafting robust and scalabl
 
 📫 Let's connect and innovate together! Feel free to explore my repositories and reach out for collaborations, discussions, or to say hello.
 
-## How to reach me **afzaalm993@gmail.com**
+## How to reach me **afzaldeveloper7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
