@@ -10,21 +10,21 @@ I'm a seasoned Full Stack Developer passionate about crafting robust and scalabl
 
 ## My tech stack includes:
 
-- *TypeScript*: Leveraging the power of strong typing for scalable JavaScript applications.
-- *Next.js*: Building dynamic and performant web applications with ease.
-- *Python*: Harnessing Python's versatility for backend development.
-- *FastAPI*: Crafting blazing-fast APIs with Python's asynchronous framework.
-- *Docker & Docker Compose*: Containerizing applications for seamless deployment and scaling.
-- *Apache Kafka*: Implementing high-throughput, fault-tolerant messaging systems for real-time data processing.
-- *Chatbots & Agents*: Building intelligent chatbots and agents for various applications, including customer service, automation, and more.
-- *RAG-Based Applications*: Developing Retrieval-Augmented Generation (RAG) based applications using frameworks such as LangChain, LangGraph, and CrewAi.
+- **TypeScript**: Leveraging the power of strong typing for scalable JavaScript applications.
+- **Next.js**: Building dynamic and performant web applications with ease.
+- **Python**: Harnessing Python's versatility for backend development.
+- **FastAPI**: Crafting blazing-fast APIs with Python's asynchronous framework.
+- **Docker & Docker Compose**: Containerizing applications for seamless deployment and scaling.
+- **Apache Kafka**: Implementing high-throughput, fault-tolerant messaging systems for real-time data processing.
+- **Chatbots & Agents**: Building intelligent chatbots and agents for various applications, including customer service, automation, and more.
+- **RAG-Based Applications**: Developing Retrieval-Augmented Generation (RAG) based applications using frameworks such as LangChain, LangGraph, and CrewAi.
 
-# Working with LangChain, LangGraph, and CrewAi for Advanced Agent Frameworks:
-- *LangChain*: Used for developing advanced chatbots and AI agents with natural language processing capabilities.
-- *LangGraph*: A framework for building and scaling complex, knowledge-graph-based AI systems.
-- *CrewAi*: A powerful framework for creating intelligent agents to perform autonomous tasks.
+## Working with LangChain, LangGraph, and CrewAi for Advanced Agent Frameworks:#
+- **LangChain**: Used for developing advanced chatbots and AI agents with natural language processing capabilities.
+- **LangGraph**: A framework for building and scaling complex, knowledge-graph-based AI systems.
+- **CrewAi**: A powerful framework for creating intelligent agents to perform autonomous tasks.
 
-📫 ##Let's connect and innovate together! Feel free to explore my repositories and reach out for collaborations, discussions, or to say hello.
+# Let's connect and innovate together! Feel free to explore my repositories and reach out for collaborations, discussions, or to say hello.
 
 ## How to reach me **afzaldeveloper7@gmail.com**
 
