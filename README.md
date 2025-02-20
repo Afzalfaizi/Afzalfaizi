@@ -61,7 +61,7 @@ I'm a seasoned Full Stack Developer passionate about crafting robust and scalabl
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="langchain" width="40" height="40"/> </a> 
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/LangChain_logo.svg" alt="langchain" width="40" height="40"/> </a> 
   <a href="https://www.langgraph.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/LangGraph_Logo.png" alt="langgraph" width="40" height="40"/> </a> 
   <a href="https://crewai.com/" target="_blank" rel="noreferrer"> <img src="https://www.crewai.com/favicon.ico" alt="crewai" width="40" height="40"/> </a> 
 </p>
