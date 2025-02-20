@@ -26,9 +26,9 @@ I'm a seasoned Full Stack Developer passionate about crafting robust and scalabl
 
 ### 🚀 **Chatbots & Agents**:
 <p align="center">
-  <img src="https://img.icons8.com/ios/452/chatbot.png" alt="chatbot" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios/452/artificial-intelligence.png" alt="AI" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios/452/conversation.png" alt="agent" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Chatbot_logo_2.svg" alt="chatbot" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Artificial_intelligence_Logo.svg" alt="AI" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Conversation_icon.svg" alt="agent" width="60" height="60"/>
 </p>
 
 - **Chatbot Design**: I design and implement intelligent chatbots that can handle conversations, provide recommendations, and automate workflows.
