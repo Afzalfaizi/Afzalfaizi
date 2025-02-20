@@ -9,26 +9,20 @@
 I'm a seasoned Full Stack Developer passionate about crafting robust and scalable software solutions. With expertise spanning various technologies and frameworks, I thrive on building innovative applications that push boundaries and deliver exceptional user experiences.
 
 ## My tech stack includes:
-
-- TypeScript: Leveraging the power of strong typing for scalable JavaScript applications.
-- Next.js: Building dynamic and performant web applications with ease.
-- Python: Harnessing Python's versatility for backend development.
-- FastAPI: Crafting blazing-fast APIs with Python's asynchronous framework.
-- Docker & Docker Compose: Containerizing applications for seamless deployment and scaling.
-- Apache Kafka: Implementing high-throughput, fault-tolerant messaging systems for real-time data processing.
-- Chatbots & Agents: Building intelligent chatbots and agents for a range of applications, including customer service, automation, and more.
-- RAG-Based Applications: Developing Retrieval-Augmented Generation (RAG) based applications using frameworks such as LangChain, LangGraph, and CrewAi.
-
-### Working with LangChain, LangGraph, and CrewAi for Advanced Agent Frameworks:
-- **LangChain**: Used for developing advanced chatbots and AI agents with natural language processing capabilities.
-- **LangGraph**: A framework for building and scaling complex, knowledge-graph-based AI systems.
-- **CrewAi**: A powerful framework for creating intelligent agents that can perform autonomous tasks.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Typescript_logo_2020.svg" alt="typescript" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Nextjs-logo.svg" alt="nextjs" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/FastAPI_logo.svg" alt="fastapi" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.png" alt="docker" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Apache_Kafka_logo.svg" alt="apachekafka" width="60" height="60"/>
+</p>
 
 ### 🚀 **Chatbots & Agents**:
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Chatbot_logo_2.svg" alt="chatbot" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Artificial_intelligence_Logo.svg" alt="AI" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Conversation_icon.svg" alt="agent" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Chatbot_Icon_2020.png" alt="chatbot" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/AI_icon.svg" alt="AI" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Conversation_icon.svg" alt="agent" width="60" height="60"/>
 </p>
 
 - **Chatbot Design**: I design and implement intelligent chatbots that can handle conversations, provide recommendations, and automate workflows.
