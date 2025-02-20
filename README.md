@@ -11,22 +11,22 @@ I'm a seasoned Full Stack Developer passionate about crafting robust and scalabl
 ## My tech stack includes:
 <p align="center">
   <strong>TypeScript</strong> <br />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Typescript_logo_2020.svg" alt="typescript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg" alt="typescript" width="60" height="60"/>
 
   <strong>Next.js</strong> <br />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Nextjs-logo.svg" alt="nextjs" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nextdotjs.svg" alt="nextjs" width="60" height="60"/>
 
   <strong>Python</strong> <br />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" alt="python" width="60" height="60"/>
 
   <strong>FastAPI</strong> <br />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/FastAPI_logo.svg" alt="fastapi" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fastapi.svg" alt="fastapi" width="60" height="60"/>
 
   <strong>Docker</strong> <br />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.png" alt="docker" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="docker" width="60" height="60"/>
 
   <strong>Apache Kafka</strong> <br />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Apache_Kafka_logo.svg" alt="apachekafka" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apachekafka.svg" alt="apachekafka" width="60" height="60"/>
 </p>
 
 ### 🚀 **Chatbots & Agents**:
